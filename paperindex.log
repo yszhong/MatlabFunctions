@@ -1,0 +1,60 @@
+Section 1: Wavelet methods
+
+Article 1 | Kwon D W, Ko K, Vannucci M, et al. Wavelet methods for the detection of anomalies and their application to network traffic analysis[J]. Quality and Reliability Engineering International, 2006, 22(8): 953-969.
+
+Procedure: DWPT/MODWPT - Ljung-Box test - MWICSS/MWSIC - repeat with subsequent subseries
+Network data: NLANR, network trace data
+Wavelet families: Haar, Daubechies, least asymmetric
+
+Quotations:
+[10] Gabbanini F, Vannucci M, Bartoli G, et al. Wavelet packet methods for the analysis of variance of time series with application to crack widths on the Brunelleschi dome[J]. Journal of Computational and Graphical Statistics, 2004, 13(3): 639-658.
+
+Dataset: crack widths on a dome of cathedral in Florence
+Method: ICSS on wavelet packet
+
+Claude F, Navarro G, Ord¨®nez A. The wavelet matrix: An efficient wavelet tree for large alphabets[J]. Information Systems, 2015, 47: 15-32.
+
+Wavelet tree of sequence: integer alphabets, text indexing, data storage structure
+Method: Pointerless Huffman shaped wavelet trees
+
+Section 2: Time Series
+
+Ding R, Wang Q, Dang Y, et al. Yading: fast clustering of large-scale time series data[J]. Proceedings of the VLDB Endowment, 2015, 8(5): 473-484.
+
+DTW similarity - DBSCAN clustering - REDUCTION
+Complexity: O(NsD + ND)
+
+Aghabozorgi S, Shirkhorshidi A S, Wah T Y. Time-series clustering¨CA decade review[J]. Information Systems, 2015, 53: 16-38.
+
+Taxonomy: whole time-series clustering / subsequence clustering / time-point clustering
+Evaluation: ARI, Entropy, Purity, Jaccard, F-measure, FM, CSM, MNI
+
+Section 3: Anomaly Detection
+
+Cheng K W, Chen Y T, Fang W H. An efficient subsequence search for video anomaly detection and localization[J]. Multimedia Tools and Applications, 2015: 1-22.
+
+Domain: model the pattern of video
+Method: Beyes SVM detector, Maximum Path Search
+
+Ahmed M, Mahmood A N, Hu J. A survey of network anomaly detection techniques[J]. Journal of Network and Computer Applications, 2016, 60: 19-31.
+
+Mentioned methods: classification, statistical, clustering, information theory
+Attack interest: classification & clustering - DoS, Statistical - R2L, U2R
+
+Fernandes G, Carvalho L F, Rodrigues J J P C, et al. Network anomaly detection using IP flows with Principal Component Analysis and Ant Colony Optimization[J]. Journal of Network and Computer Applications, 2016, 64: 1-11.
+
+Method: PCADS, modified by Ant Colony Optinization metaheuristic, and Adaptive DTW to recognize behavior
+Event detection: can detect holidays, etc. 
+
+Laptev N, Amizadeh S, Flint I. Generic and scalable framework for automated time-series anomaly detection[C]//Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015: 1939-1947.
+
+Anomalies: Outliers / change points / anomalous time series
+Algorithm: EGADS
+Time series feature: periodicity, trend, seasonality, correlation, linearity, skewness, kurtosis, hurst, Lyapunov Exponent
+Dataset: Yahoo Membership Login data
+
+Article 2 | Ye J, Kumar S, Akoglu L. Temporal Opinion Spam Detection by Multivariate Indicative Signals[J]. arXiv preprint arXiv:1603.01929, 2016.
+
+Each product has  8 types of time series
+Detect changes called lead signal and observe whether anomalies exists
+
