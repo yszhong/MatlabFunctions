@@ -12,7 +12,7 @@ Quotations:
 Dataset: crack widths on a dome of cathedral in Florence
 Method: ICSS on wavelet packet
 
-Claude F, Navarro G, Ord¨®nez A. The wavelet matrix: An efficient wavelet tree for large alphabets[J]. Information Systems, 2015, 47: 15-32.
+Claude F, Navarro G, OrdÂ¨Â®nez A. The wavelet matrix: An efficient wavelet tree for large alphabets[J]. Information Systems, 2015, 47: 15-32.
 
 Wavelet tree of sequence: integer alphabets, text indexing, data storage structure
 Method: Pointerless Huffman shaped wavelet trees
@@ -24,7 +24,7 @@ Ding R, Wang Q, Dang Y, et al. Yading: fast clustering of large-scale time serie
 DTW similarity - DBSCAN clustering - REDUCTION
 Complexity: O(NsD + ND)
 
-Aghabozorgi S, Shirkhorshidi A S, Wah T Y. Time-series clustering¨CA decade review[J]. Information Systems, 2015, 53: 16-38.
+Aghabozorgi S, Shirkhorshidi A S, Wah T Y. Time-series clusteringÂ¨CA decade review[J]. Information Systems, 2015, 53: 16-38.
 
 Taxonomy: whole time-series clustering / subsequence clustering / time-point clustering
 Evaluation: ARI, Entropy, Purity, Jaccard, F-measure, FM, CSM, MNI
@@ -58,3 +58,4 @@ Article 2 | Ye J, Kumar S, Akoglu L. Temporal Opinion Spam Detection by Multivar
 Each product has  8 types of time series
 Detect changes called lead signal and observe whether anomalies exists
 
+Hodge V J, Austin J. A Survey of Outlier Detection Methodologies[J]. Artificial Intelligence Review, 2004, 22(2): 85-126.
