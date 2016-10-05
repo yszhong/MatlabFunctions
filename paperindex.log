@@ -31,6 +31,8 @@ Evaluation: ARI, Entropy, Purity, Jaccard, F-measure, FM, CSM, MNI
 
 Dette H, Wied D. Detecting relevant changes in time series models[J]. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 2016, 78(2): 371-394.
 
+Kirch C, Muhsal B, Ombao H. Detection of changes in multivariate time series with application to EEG data[J]. Journal of the American Statistical Association, 2015, 110(511): 1197-1216.
+
 Section 3: Anomaly Detection
 
 Cheng K W, Chen Y T, Fang W H. An efficient subsequence search for video anomaly detection and localization[J]. Multimedia Tools and Applications, 2015: 1-22.
