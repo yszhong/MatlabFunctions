@@ -1,2 +1,2 @@
 # miscellaneous
-mescellaneous matlab codes and documents
+miscellaneous matlab codes and documents
